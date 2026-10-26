@@ -23,3 +23,7 @@ This project is intended to serve as a template firmware project for the Kinetis
 * `./` : Project configs, build/linker scripts, etc
 * `./lib/` : external libraries ([more on this](lib/README.md))
 * `./src/` : project source code
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0 or later](LICENSE) (`AGPL-3.0-or-later`).
